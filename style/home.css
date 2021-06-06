@@ -1,0 +1,143 @@
+/*style index html */
+.blog-header {
+    line-height: 1;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  @font-face {
+    font-family: 'Feathery-PersonalUse';
+    src: url('../font/Feathery-PersonalUse.otf');
+  }
+  @font-face {
+    font-family: 'Sweety';
+    src: url('../font/Sweety.otf');
+  }
+  @font-face {
+    font-family: 'lobster';
+    src: url('../font/Lobster-Regular.ttf');
+  }
+  .blog-header-logo{
+    font-family: Feathery-PersonalUse;
+    font-size: 2.25rem;
+  }
+  .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+.carousel-caption h1{
+    font-family: lobster;
+    font-size: 4rem;
+    color: white;
+  }
+  .carousel-caption {
+    bottom: 10rem;
+    z-index: 10;
+    margin-left: -80px;
+    padding-right: 300px;
+}
+.text{
+    margin-top: 10px;
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 2em;
+
+}
+.carousel-caption p{
+    margin-top: 10px;
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 2em;
+
+}
+.btn-danger{
+    border-radius: 20px;
+}
+.col img {
+    width: 250px;
+    height: 200px;
+    margin-left : 5px;
+    margin-top: 10px;
+  }
+.titre{
+    font-family: lobster;
+    font-size: 4rem;
+    color: #DC143C;
+    text-align: center;
+}
+.card-img-top {
+    height: 213px;
+}
+h2.text-center  {
+    color: #663333;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    font-family: lobster;
+    font-size: 4rem;
+}
+p.card-text{
+    font-size: 1rem;
+    margin-top: 10px;
+    font-weight: 300;
+    line-height: 2em;
+}
+
+.card-footer{
+    background-color: #663333;
+}
+
+/*apres carousel*/
+.icons {
+    background: #dc3545;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.icon p {
+    font-size: 21px;
+    font-family: 'Lobster';
+    color: #fff;
+    padding-top: 10px;
+    line-height: 25px;
+}
+.icon img {
+    float: left;
+    vertical-align: middle;
+    margin-right: 20px;
+    margin-top: 7px;
+    height: 57px;
+    width: 60px;
+}
+i {
+    color: #F08080;
+  }
+  .list-inline i  {
+    font-size: 25px;
+    vertical-align: middle;
+}
+/*navbar*/
+.navbar{
+  background-color: orange;
+  /*padding-top: 20px;
+padding-bottom: 20px;*/
+font-weight: 300;
+}
+/*contact*/
+.text-contact{
+  margin-top: 5%;
+  text-align: center;
+  padding: 20px;
+}
+.text-contact h1{
+  font-family: 'Lobster';
+}
+.paragraphe{
+  margin-top: 2%;
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.contact{
+  width: 50%;
+  margin: 0 auto;
+}
