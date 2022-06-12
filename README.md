@@ -1,7 +1,9 @@
-# frontend de site d'une patisserie
+# Site web de recette tunisienne
 
 vous trouvez ici la partie frontend de site 🔽🔽
 
-✔ Technologies : html , css, boostrap ,jQuery ,Js
+✔ Technologies : 
+     🔸Front end : html , css, boostrap ,jQuery ,Js 
+     🔸Backend : php
 
-![test2](https://user-images.githubusercontent.com/76540677/173210320-376976de-3fc9-4d9b-96b8-003d7490a9c4.png)
+![portfolio-2](https://user-images.githubusercontent.com/76540677/173210389-e22f0ddd-6ae9-4ecd-b5fa-e98860618b05.jpg)
