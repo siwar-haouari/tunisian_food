@@ -1,6 +1,6 @@
 # Site web de recette tunisienne
 
-vous trouvez ici la partie frontend de site 🔽🔽
+Site web de gestion de recette tunisienne qui permet d'ajouter , modifier et supprimer et de consulter les recettes  🔽🔽
 
 ✔ Technologies : 
 
